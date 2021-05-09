@@ -227,7 +227,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 7f4b564d-1a53-4b67-9a20-edce56612a20)
   )
-  (hierarchical_label "WATERPUM_B-" (shape output) (at 158.75 100.33 0)
+  (hierarchical_label "WATERPUMP_B-" (shape output) (at 158.75 100.33 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid c346595e-4cc9-4484-9726-554e184fd6c6)
   )
