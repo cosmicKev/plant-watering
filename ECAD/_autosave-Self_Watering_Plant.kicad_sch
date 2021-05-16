@@ -2681,7 +2681,7 @@
       (reference "#PWR0145") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000609ff0a9/7d35aa0e-2495-46e9-a05d-eec6e0684d82"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0153") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000609ff0a9/00000000-0000-0000-0000-0000609d2e99"
       (reference "C6") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -2696,7 +2696,7 @@
       (reference "D7") (unit 1) (value "NCD0603R1") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-0000609ff0a9/ed07c7a6-a5e6-4f8d-a490-8e0612008ba4"
-      (reference "D?") (unit 1) (value "NCD0603R1") (footprint "LED_SMD:LED_0603_1608Metric")
+      (reference "D8") (unit 1) (value "NCD0603R1") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-0000609ff0a9/f555c057-030f-4ca7-88d1-52a0ac218a76"
       (reference "R6") (unit 1) (value "1K") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -2705,13 +2705,13 @@
       (reference "R10") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-0000609ff0a9/15a3d32d-ef3d-422c-b125-28d415f78d15"
-      (reference "R?") (unit 1) (value "1K") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R12") (unit 1) (value "1K") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-0000609ff0a9/00000000-0000-0000-0000-0000609c3f5b"
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm_H4.3mm")
     )
     (path "/00000000-0000-0000-0000-0000609ff0a9/57631c2f-6c1f-4104-9af2-76db93e651df"
-      (reference "U?") (unit 1) (value "ESP32-WROOM-32") (footprint "RF_Module:ESP32-WROOM-32")
+      (reference "U1") (unit 1) (value "ESP32-WROOM-32") (footprint "RF_Module:ESP32-WROOM-32")
     )
     (path "/00000000-0000-0000-0000-000060993e2a/ffdd0119-26e0-4ad4-bafd-7ecdcecc2f89"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
