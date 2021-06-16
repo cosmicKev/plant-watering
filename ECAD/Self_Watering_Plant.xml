@@ -1,0 +1,2182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\Kevin Filipe\Desktop\git\plant-watering\ECAD\Self_Watering_Plant.kicad_sch</source>
+    <date>05/17/21 00:16:02</date>
+    <tool>Eeschema (5.99.0-9218-g05b559c9dc)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Self_Watering_Plant.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Sheet609B7C64/" tstamps="/00000000-0000-0000-0000-0000609b7c65/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>MoistureComparator.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Sheet60A2B29D/" tstamps="/00000000-0000-0000-0000-000060a2b29e/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>LightSensor.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/TempAndHumiditySensor/" tstamps="/00000000-0000-0000-0000-000060a212ac/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>TempAndHumiditySensor.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/FlasherCircuit/" tstamps="/00000000-0000-0000-0000-0000609e7afc/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Flasher.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/AnalogMux/" tstamps="/00000000-0000-0000-0000-000060a081f6/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>AnalogMux.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Controller/" tstamps="/00000000-0000-0000-0000-0000609ff0a9/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Controller.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/WaterPumpControl/" tstamps="/00000000-0000-0000-0000-000060993e2a/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>WaterPumpControl.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/LedControl/" tstamps="/00000000-0000-0000-0000-0000609660e5/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>LedControl.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C12">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811021622_Samsung-Electro-Mechanics-CL10A105KO8NNNC_C1592.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	Samsung Electro-Mechanics</field>
+        <field name="Manufacturer Number">CL10A105KO8NNNC</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Rated Voltage" value=""/>
+      <property name="Manufacturer Number" value="CL10A105KO8NNNC"/>
+      <property name="Package" value="0603"/>
+      <property name="Manufacturer" value="&#x9;Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Self_Watering_Plant.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>734225ac-a1e6-41e9-91c7-7aadd3e54001</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811071519_Darfon-Elec-C0603X7R103METS_C312126.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CCTC</field>
+        <field name="Manufacturer Number">TCC0603X7R103M500CT</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Rated Voltage" value=""/>
+      <property name="Manufacturer Number" value="TCC0603X7R103M500CT"/>
+      <property name="Package" value="0603"/>
+      <property name="Manufacturer" value="CCTC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Self_Watering_Plant.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>e74eb516-0745-4650-a217-40107f1f5a78</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811021622_Samsung-Electro-Mechanics-CL10A105KO8NNNC_C1592.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	Samsung Electro-Mechanics</field>
+        <field name="Manufacturer Number">CL10A105KO8NNNC</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Rated Voltage" value=""/>
+      <property name="Manufacturer Number" value="CL10A105KO8NNNC"/>
+      <property name="Package" value="0603"/>
+      <property name="Manufacturer" value="&#x9;Samsung Electro-Mechanics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Self_Watering_Plant.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>d7747758-136e-45e5-9d0e-b1c7213eae60</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>RS3ABG</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Shikues-RS3ABG_C434033.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	Shikues</field>
+        <field name="Manufacturer Number">RS3ABG</field>
+        <field name="Package">SMB</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Manufacturer" value="&#x9;Shikues"/>
+      <property name="Manufacturer Number" value="RS3ABG"/>
+      <property name="Package" value="SMB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Self_Watering_Plant.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>7f85a4a8-872d-449e-ac98-dcebf98be1f5</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>RS3ABG</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Shikues-RS3ABG_C434033.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	Shikues</field>
+        <field name="Manufacturer Number">RS3ABG</field>
+        <field name="Package">SMB</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Manufacturer" value="&#x9;Shikues"/>
+      <property name="Manufacturer Number" value="RS3ABG"/>
+      <property name="Package" value="SMB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Self_Watering_Plant.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>afe34e03-5c53-48e0-8bac-a90e23adbb67</tstamp>
+    </comp>
+    <comp ref="F1">
+      <value>Polyfuse_Small</value>
+      <footprint>Fuse:Fuse_1812_4532Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1808280147_BOURNS-MF-MSMF110-24X-2_C210835.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	BOURNS</field>
+        <field name="Manufacturer Number">MF-MSMF110/24X-2</field>
+        <field name="Package">1812</field>
+      </fields>
+      <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <property name="Manufacturer" value="&#x9;BOURNS"/>
+      <property name="Manufacturer Number" value="MF-MSMF110/24X-2"/>
+      <property name="Package" value="1812"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Self_Watering_Plant.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>b2dbf4b7-2474-442f-a7ed-72ee91a83788</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x02</value>
+      <footprint>ConnectorsSMD:TB001-500-02BE</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912251631_Ningbo-Kangnex-Elec-WJ127-5-0-2P_C3703.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	</field>
+        <field name="Manufacturer Number">WJ127-5.0-2P</field>
+        <field name="Package">	P=5.0mm</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Manufacturer Number" value="WJ127-5.0-2P"/>
+      <property name="Package" value="&#x9;P=5.0mm"/>
+      <property name="Manufacturer" value="&#x9;"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Self_Watering_Plant.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-0000609a6f5d</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02</value>
+      <footprint>ConnectorsSMD:TB001-500-02BE</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912251631_Ningbo-Kangnex-Elec-WJ127-5-0-2P_C3703.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	</field>
+        <field name="Manufacturer Number">WJ127-5.0-2P</field>
+        <field name="Package">	P=5.0mm</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Manufacturer Number" value="WJ127-5.0-2P"/>
+      <property name="Package" value="&#x9;P=5.0mm"/>
+      <property name="Manufacturer" value="&#x9;"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Self_Watering_Plant.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-0000609a6363</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>USB_A</value>
+      <footprint>Connector_USB:USB_A_Molex_67643_Horizontal</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_MOLEX-676432911_C293351.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">MOLEX</field>
+        <field name="Manufacturer Number">676432911</field>
+        <field name="Package">Through Hole</field>
+      </fields>
+      <libsource lib="Connector" part="USB_A" description="USB Type A connector"/>
+      <property name="Manufacturer" value="MOLEX"/>
+      <property name="Manufacturer Number" value="676432911"/>
+      <property name="Package" value="Through Hole"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Self_Watering_Plant.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>7db17417-69ff-4566-aff4-66d4ac234a0d</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>USB_A</value>
+      <footprint>Connector_USB:USB_A_Molex_67643_Horizontal</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_MOLEX-676432911_C293351.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">MOLEX</field>
+        <field name="Manufacturer Number">676432911</field>
+        <field name="Package">Through Hole</field>
+      </fields>
+      <libsource lib="Connector" part="USB_A" description="USB Type A connector"/>
+      <property name="Manufacturer" value="MOLEX"/>
+      <property name="Manufacturer Number" value="676432911"/>
+      <property name="Package" value="Through Hole"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Self_Watering_Plant.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-0000609577a1</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x02</value>
+      <footprint>Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811051822_JST-Sales-America-S2B-XH-A-LF-SN_C157931.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">JST Sales America</field>
+        <field name="Manufacturer Number">S2B-XH-A(LF)(SN)</field>
+        <field name="Package">Through Hole,P=2.5mm</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Manufacturer" value="JST Sales America"/>
+      <property name="Manufacturer Number" value="S2B-XH-A(LF)(SN)"/>
+      <property name="Package" value="Through Hole,P=2.5mm"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Self_Watering_Plant.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>e762fdda-6f63-47b2-8c8e-31bd3db59fa1</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x02</value>
+      <footprint>Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811051822_JST-Sales-America-S2B-XH-A-LF-SN_C157931.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">JST Sales America</field>
+        <field name="Manufacturer Number">S2B-XH-A(LF)(SN)</field>
+        <field name="Package">Through Hole,P=2.5mm</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Manufacturer" value="JST Sales America"/>
+      <property name="Manufacturer Number" value="S2B-XH-A(LF)(SN)"/>
+      <property name="Package" value="Through Hole,P=2.5mm"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Self_Watering_Plant.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ff3cd88-b345-4964-9476-0cf1ad690106</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x03</value>
+      <footprint>Connector_JST:JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810291311_JST-Sales-America-S3B-XH-A-LF-SN_C157928.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">JST Sales America</field>
+        <field name="Manufacturer Number">S3B-XH-A(LF)(SN)</field>
+        <field name="Package">Through Hole,P=2.5mm</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Manufacturer" value="JST Sales America"/>
+      <property name="Manufacturer Number" value="S3B-XH-A(LF)(SN)"/>
+      <property name="Package" value="Through Hole,P=2.5mm"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Self_Watering_Plant.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>ae311982-fa4d-4e28-b525-c8aedb285d2b</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>C-31-M-12</value>
+      <footprint>Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811131825_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	Korean Hroparts Elec</field>
+        <field name="Manufacturer Number">U262-161N-4BVC11</field>
+        <field name="Package">SMT</field>
+      </fields>
+      <libsource lib="Connector" part="USB_C_Plug_USB2.0" description="USB 2.0-only Type-C Plug connector"/>
+      <property name="Manufacturer" value="&#x9;Korean Hroparts Elec"/>
+      <property name="Manufacturer Number" value="U262-161N-4BVC11"/>
+      <property name="Package" value="SMT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Self_Watering_Plant.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-000060945ca1</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>5.1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811021212_UNI-ROYAL-Uniroyal-Elec-0603WAF5101T5E_C23186.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="Manufacturer Number">0603WAF5101T5E</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer" value="&#x9;UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="Manufacturer Number" value="0603WAF5101T5E"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Self_Watering_Plant.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>14f292a5-5914-465c-85fd-3525fb006bba</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>5.1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811021212_UNI-ROYAL-Uniroyal-Elec-0603WAF5101T5E_C23186.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="Manufacturer Number">0603WAF5101T5E</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer" value="&#x9;UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="Manufacturer Number" value="0603WAF5101T5E"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Self_Watering_Plant.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>4381992f-ef6c-440e-9f4b-fe48ff40a696</tstamp>
+    </comp>
+    <comp ref="U11">
+      <value>BCT2028</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809211434_BROADCHIP-BCT2028EUK33-TR_C266766.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">BROADCHIP</field>
+        <field name="Manufacturer Number">	BCT2028EUK33-TR</field>
+        <field name="Package">SOT-23-5</field>
+      </fields>
+      <libsource lib="User_LDO" part="BCT2028" description=""/>
+      <property name="Manufacturer" value="BROADCHIP"/>
+      <property name="Manufacturer Number" value="&#x9;BCT2028EUK33-TR"/>
+      <property name="Package" value="SOT-23-5"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Self_Watering_Plant.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>1827c3a6-687e-4cda-86cd-eace6cd39532</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811071519_Darfon-Elec-C0603X7R103METS_C312126.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CCTC</field>
+        <field name="Manufacturer Number">TCC0603X7R103M500CT</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="CCTC"/>
+      <property name="Manufacturer Number" value="TCC0603X7R103M500CT"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Sheet609B7C64"/>
+      <property name="Sheetfile" value="MoistureComparator.kicad_sch"/>
+      <sheetpath names="/Sheet609B7C64/" tstamps="/00000000-0000-0000-0000-0000609b7c65/"/>
+      <tstamp>00000000-0000-0000-0000-0000609be368</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811071519_Darfon-Elec-C0603X7R103METS_C312126.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CCTC</field>
+        <field name="Manufacturer Number">TCC0603X7R103M500CT</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="CCTC"/>
+      <property name="Manufacturer Number" value="TCC0603X7R103M500CT"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Sheet609B7C64"/>
+      <property name="Sheetfile" value="MoistureComparator.kicad_sch"/>
+      <sheetpath names="/Sheet609B7C64/" tstamps="/00000000-0000-0000-0000-0000609b7c65/"/>
+      <tstamp>00000000-0000-0000-0000-0000609be3ec</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>NCD0603R1</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0603R1_C84263.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	Foshan NationStar Optoelectronics</field>
+        <field name="Manufacturer Number">NCD0603R1</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Manufacturer" value="&#x9;Foshan NationStar Optoelectronics"/>
+      <property name="Manufacturer Number" value="NCD0603R1"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Sheet609B7C64"/>
+      <property name="Sheetfile" value="MoistureComparator.kicad_sch"/>
+      <sheetpath names="/Sheet609B7C64/" tstamps="/00000000-0000-0000-0000-0000609b7c65/"/>
+      <tstamp>00000000-0000-0000-0000-0000609be343</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>NCD0603R1</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0603R1_C84263.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	Foshan NationStar Optoelectronics</field>
+        <field name="Manufacturer Number">NCD0603R1</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Manufacturer" value="&#x9;Foshan NationStar Optoelectronics"/>
+      <property name="Manufacturer Number" value="NCD0603R1"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Sheet609B7C64"/>
+      <property name="Sheetfile" value="MoistureComparator.kicad_sch"/>
+      <sheetpath names="/Sheet609B7C64/" tstamps="/00000000-0000-0000-0000-0000609b7c65/"/>
+      <tstamp>00000000-0000-0000-0000-0000609be3c7</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811062009_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="Manufacturer Number">0603WAF1002T5E</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="Manufacturer Number" value="0603WAF1002T5E"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Sheet609B7C64"/>
+      <property name="Sheetfile" value="MoistureComparator.kicad_sch"/>
+      <sheetpath names="/Sheet609B7C64/" tstamps="/00000000-0000-0000-0000-0000609b7c65/"/>
+      <tstamp>00000000-0000-0000-0000-0000609be34d</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011704_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">FH(Guangdong Fenghua Advanced Tech)</field>
+        <field name="Manufacturer Number">RS-03K1001FT</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer" value="FH(Guangdong Fenghua Advanced Tech)"/>
+      <property name="Manufacturer Number" value="RS-03K1001FT"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Sheet609B7C64"/>
+      <property name="Sheetfile" value="MoistureComparator.kicad_sch"/>
+      <sheetpath names="/Sheet609B7C64/" tstamps="/00000000-0000-0000-0000-0000609b7c65/"/>
+      <tstamp>00000000-0000-0000-0000-0000609be332</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811062009_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="Manufacturer Number">0603WAF1002T5E</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="Manufacturer Number" value="0603WAF1002T5E"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Sheet609B7C64"/>
+      <property name="Sheetfile" value="MoistureComparator.kicad_sch"/>
+      <sheetpath names="/Sheet609B7C64/" tstamps="/00000000-0000-0000-0000-0000609b7c65/"/>
+      <tstamp>00000000-0000-0000-0000-0000609be3d1</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011704_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">FH(Guangdong Fenghua Advanced Tech)</field>
+        <field name="Manufacturer Number">RS-03K1001FT</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer" value="FH(Guangdong Fenghua Advanced Tech)"/>
+      <property name="Manufacturer Number" value="RS-03K1001FT"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Sheet609B7C64"/>
+      <property name="Sheetfile" value="MoistureComparator.kicad_sch"/>
+      <sheetpath names="/Sheet609B7C64/" tstamps="/00000000-0000-0000-0000-0000609b7c65/"/>
+      <tstamp>00000000-0000-0000-0000-0000609be3b6</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811071519_Darfon-Elec-C0603X7R103METS_C312126.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CCTC</field>
+        <field name="Manufacturer Number">TCC0603X7R103M500CT</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="CCTC"/>
+      <property name="Manufacturer Number" value="TCC0603X7R103M500CT"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Sheet60A2B29D"/>
+      <property name="Sheetfile" value="LightSensor.kicad_sch"/>
+      <sheetpath names="/Sheet60A2B29D/" tstamps="/00000000-0000-0000-0000-000060a2b29e/"/>
+      <tstamp>37396574-35b4-4eb3-ac0c-d5d783cc862b</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>NCD0603R1</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0603R1_C84263.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	Foshan NationStar Optoelectronics</field>
+        <field name="Manufacturer Number">NCD0603R1</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Manufacturer" value="&#x9;Foshan NationStar Optoelectronics"/>
+      <property name="Manufacturer Number" value="NCD0603R1"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Sheet60A2B29D"/>
+      <property name="Sheetfile" value="LightSensor.kicad_sch"/>
+      <sheetpath names="/Sheet60A2B29D/" tstamps="/00000000-0000-0000-0000-000060a2b29e/"/>
+      <tstamp>ce3d0d45-de23-4676-bd2b-dfbc23625bfa</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>NCD0603R1</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0603R1_C84263.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	Foshan NationStar Optoelectronics</field>
+        <field name="Manufacturer Number">NCD0603R1</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Manufacturer" value="&#x9;Foshan NationStar Optoelectronics"/>
+      <property name="Manufacturer Number" value="NCD0603R1"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Sheet60A2B29D"/>
+      <property name="Sheetfile" value="LightSensor.kicad_sch"/>
+      <sheetpath names="/Sheet60A2B29D/" tstamps="/00000000-0000-0000-0000-000060a2b29e/"/>
+      <tstamp>27199e8e-acf1-4fb6-b889-edf0547eaad0</tstamp>
+    </comp>
+    <comp ref="Q9">
+      <value>TEPT4400</value>
+      <footprint>LED_THT:LED_D3.0mm_Clear</footprint>
+      <datasheet>https://www.vishay.com/docs/81341/tept4400.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	Vishay Intertech</field>
+        <field name="Manufacturer Number">TEPT4400</field>
+        <field name="Package">T-1</field>
+      </fields>
+      <libsource lib="Sensor_Optical" part="TEPT4400" description="Ambient Light Sensor, NPN Epitaxial Planar Phototransistor, T-1"/>
+      <property name="Manufacturer" value="&#x9;Vishay Intertech"/>
+      <property name="Manufacturer Number" value="TEPT4400"/>
+      <property name="Package" value="T-1"/>
+      <property name="Sheetname" value="Sheet60A2B29D"/>
+      <property name="Sheetfile" value="LightSensor.kicad_sch"/>
+      <sheetpath names="/Sheet60A2B29D/" tstamps="/00000000-0000-0000-0000-000060a2b29e/"/>
+      <tstamp>2d45fc12-269f-49c4-bc8f-dea9839a2394</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811062009_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="Manufacturer Number">0603WAF1002T5E</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="Manufacturer Number" value="0603WAF1002T5E"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Sheet60A2B29D"/>
+      <property name="Sheetfile" value="LightSensor.kicad_sch"/>
+      <sheetpath names="/Sheet60A2B29D/" tstamps="/00000000-0000-0000-0000-000060a2b29e/"/>
+      <tstamp>cd4796b3-d532-496d-90e3-5eba76383b3a</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811062009_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="Manufacturer Number">0603WAF1002T5E</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="Manufacturer Number" value="0603WAF1002T5E"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Sheet60A2B29D"/>
+      <property name="Sheetfile" value="LightSensor.kicad_sch"/>
+      <sheetpath names="/Sheet60A2B29D/" tstamps="/00000000-0000-0000-0000-000060a2b29e/"/>
+      <tstamp>989751c3-4da0-4a0b-b582-c885a50d34a8</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011704_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">FH(Guangdong Fenghua Advanced Tech)</field>
+        <field name="Manufacturer Number">RS-03K1001FT</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer" value="FH(Guangdong Fenghua Advanced Tech)"/>
+      <property name="Manufacturer Number" value="RS-03K1001FT"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Sheet60A2B29D"/>
+      <property name="Sheetfile" value="LightSensor.kicad_sch"/>
+      <sheetpath names="/Sheet60A2B29D/" tstamps="/00000000-0000-0000-0000-000060a2b29e/"/>
+      <tstamp>f79d5394-b1a9-43ee-b7e1-3f1bacf6c273</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011704_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">FH(Guangdong Fenghua Advanced Tech)</field>
+        <field name="Manufacturer Number">RS-03K1001FT</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer" value="FH(Guangdong Fenghua Advanced Tech)"/>
+      <property name="Manufacturer Number" value="RS-03K1001FT"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Sheet60A2B29D"/>
+      <property name="Sheetfile" value="LightSensor.kicad_sch"/>
+      <sheetpath names="/Sheet60A2B29D/" tstamps="/00000000-0000-0000-0000-000060a2b29e/"/>
+      <tstamp>5284b455-ddb2-4533-86c7-d01fb99e0719</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811141116_Samsung-Electro-Mechanics-CL10A106MQ8NNNC_C1691.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Manufacturer Number">CL10A106MQ8NNNC</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="Samsung Electro-Mechanics"/>
+      <property name="Manufacturer Number" value="CL10A106MQ8NNNC"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="TempAndHumiditySensor"/>
+      <property name="Sheetfile" value="TempAndHumiditySensor.kicad_sch"/>
+      <sheetpath names="/TempAndHumiditySensor/" tstamps="/00000000-0000-0000-0000-000060a212ac/"/>
+      <tstamp>f6e1af82-5038-4a03-a0ff-e9e0f544acb0</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>5.1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811021212_UNI-ROYAL-Uniroyal-Elec-0603WAF5101T5E_C23186.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="Manufacturer Number">0603WAF5101T5E</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer" value="&#x9;UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="Manufacturer Number" value="0603WAF5101T5E"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="TempAndHumiditySensor"/>
+      <property name="Sheetfile" value="TempAndHumiditySensor.kicad_sch"/>
+      <sheetpath names="/TempAndHumiditySensor/" tstamps="/00000000-0000-0000-0000-000060a212ac/"/>
+      <tstamp>e28f394b-8a49-49de-bd15-24a5766934dc</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>5.1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811021212_UNI-ROYAL-Uniroyal-Elec-0603WAF5101T5E_C23186.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="Manufacturer Number">0603WAF5101T5E</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer" value="&#x9;UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="Manufacturer Number" value="0603WAF5101T5E"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="TempAndHumiditySensor"/>
+      <property name="Sheetfile" value="TempAndHumiditySensor.kicad_sch"/>
+      <sheetpath names="/TempAndHumiditySensor/" tstamps="/00000000-0000-0000-0000-000060a212ac/"/>
+      <tstamp>611ec853-52e9-41bc-a724-d4c8bcf76986</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>AHT20</value>
+      <footprint>Package_DFN:SOIC-6</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2004070932_Aosong-Guangzhou-Elec-AHT20_C503357.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	Aosong (Guangzhou) Elec</field>
+        <field name="Manufacturer Number">AHT20</field>
+        <field name="Package">SMD</field>
+      </fields>
+      <libsource lib="User_Sensors" part="AHT20" description=""/>
+      <property name="Manufacturer" value="&#x9;Aosong (Guangzhou) Elec"/>
+      <property name="Manufacturer Number" value="AHT20"/>
+      <property name="Package" value="SMD"/>
+      <property name="Sheetname" value="TempAndHumiditySensor"/>
+      <property name="Sheetfile" value="TempAndHumiditySensor.kicad_sch"/>
+      <sheetpath names="/TempAndHumiditySensor/" tstamps="/00000000-0000-0000-0000-000060a212ac/"/>
+      <tstamp>88bf8d7c-d72d-4897-ba80-601baee50306</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810181652_CCTC-TCC0603X7R104K500CT_C282519.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CCTC</field>
+        <field name="Manufacturer Number">TCC0603X7R104K500CT</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="CCTC"/>
+      <property name="Manufacturer Number" value="TCC0603X7R104K500CT"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="FlasherCircuit"/>
+      <property name="Sheetfile" value="Flasher.kicad_sch"/>
+      <sheetpath names="/FlasherCircuit/" tstamps="/00000000-0000-0000-0000-0000609e7afc/"/>
+      <tstamp>00000000-0000-0000-0000-0000609ee821</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810181652_CCTC-TCC0603X7R104K500CT_C282519.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CCTC</field>
+        <field name="Manufacturer Number">TCC0603X7R104K500CT</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="CCTC"/>
+      <property name="Manufacturer Number" value="TCC0603X7R104K500CT"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="FlasherCircuit"/>
+      <property name="Sheetfile" value="Flasher.kicad_sch"/>
+      <sheetpath names="/FlasherCircuit/" tstamps="/00000000-0000-0000-0000-0000609e7afc/"/>
+      <tstamp>00000000-0000-0000-0000-0000609f24bb</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>BC817</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC818-D.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	ON Semiconductor</field>
+        <field name="Manufacturer Number">BC818-40LT1G</field>
+        <field name="Package">SOT-23(SOT-23-3)</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="BC817" description="0.8A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <property name="Manufacturer" value="&#x9;ON Semiconductor"/>
+      <property name="Manufacturer Number" value="BC818-40LT1G"/>
+      <property name="Package" value="SOT-23(SOT-23-3)"/>
+      <property name="Sheetname" value="FlasherCircuit"/>
+      <property name="Sheetfile" value="Flasher.kicad_sch"/>
+      <sheetpath names="/FlasherCircuit/" tstamps="/00000000-0000-0000-0000-0000609e7afc/"/>
+      <tstamp>00000000-0000-0000-0000-0000609e81a6</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>BC817</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC818-D.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	ON Semiconductor</field>
+        <field name="Manufacturer Number">BC818-40LT1G</field>
+        <field name="Package">SOT-23(SOT-23-3)</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="BC817" description="0.8A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <property name="Manufacturer" value="&#x9;ON Semiconductor"/>
+      <property name="Manufacturer Number" value="BC818-40LT1G"/>
+      <property name="Package" value="SOT-23(SOT-23-3)"/>
+      <property name="Sheetname" value="FlasherCircuit"/>
+      <property name="Sheetfile" value="Flasher.kicad_sch"/>
+      <sheetpath names="/FlasherCircuit/" tstamps="/00000000-0000-0000-0000-0000609e7afc/"/>
+      <tstamp>00000000-0000-0000-0000-0000609e81ac</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811062009_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="Manufacturer Number">0603WAF1002T5E</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="Manufacturer Number" value="0603WAF1002T5E"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="FlasherCircuit"/>
+      <property name="Sheetfile" value="Flasher.kicad_sch"/>
+      <sheetpath names="/FlasherCircuit/" tstamps="/00000000-0000-0000-0000-0000609e7afc/"/>
+      <tstamp>00000000-0000-0000-0000-0000609e81b2</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811062009_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UNI-ROYAL(Uniroyal Elec)</field>
+        <field name="Manufacturer Number">0603WAF1002T5E</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer" value="UNI-ROYAL(Uniroyal Elec)"/>
+      <property name="Manufacturer Number" value="0603WAF1002T5E"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="FlasherCircuit"/>
+      <property name="Sheetfile" value="Flasher.kicad_sch"/>
+      <sheetpath names="/FlasherCircuit/" tstamps="/00000000-0000-0000-0000-0000609e7afc/"/>
+      <tstamp>00000000-0000-0000-0000-0000609e81b8</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>CH340C</value>
+      <footprint>Package_SO:SOIC-16_3.9x9.9mm_P1.27mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008191806_WCH-Jiangsu-Qin-Heng-CH340C_C84681.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">WCH(Jiangsu Qin Heng)</field>
+        <field name="Manufacturer Number">CH340C</field>
+        <field name="Package">SOP-16_150mil</field>
+      </fields>
+      <libsource lib="Interface_USB" part="CH340C" description="USB serial converter, UART, SOIC-16"/>
+      <property name="Manufacturer" value="WCH(Jiangsu Qin Heng)"/>
+      <property name="Manufacturer Number" value="CH340C"/>
+      <property name="Package" value="SOP-16_150mil"/>
+      <property name="Sheetname" value="FlasherCircuit"/>
+      <property name="Sheetfile" value="Flasher.kicad_sch"/>
+      <sheetpath names="/FlasherCircuit/" tstamps="/00000000-0000-0000-0000-0000609e7afc/"/>
+      <tstamp>00000000-0000-0000-0000-0000609e8f89</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810181652_CCTC-TCC0603X7R104K500CT_C282519.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CCTC</field>
+        <field name="Manufacturer Number">TCC0603X7R104K500CT</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="CCTC"/>
+      <property name="Manufacturer Number" value="TCC0603X7R104K500CT"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="AnalogMux"/>
+      <property name="Sheetfile" value="AnalogMux.kicad_sch"/>
+      <sheetpath names="/AnalogMux/" tstamps="/00000000-0000-0000-0000-000060a081f6/"/>
+      <tstamp>9813b938-8ca9-4953-ab4a-0ac598cdba15</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810181652_CCTC-TCC0603X7R104K500CT_C282519.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CCTC</field>
+        <field name="Manufacturer Number">TCC0603X7R104K500CT</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="CCTC"/>
+      <property name="Manufacturer Number" value="TCC0603X7R104K500CT"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="AnalogMux"/>
+      <property name="Sheetfile" value="AnalogMux.kicad_sch"/>
+      <sheetpath names="/AnalogMux/" tstamps="/00000000-0000-0000-0000-000060a081f6/"/>
+      <tstamp>fb3d5b4b-d4fe-457a-8086-0dc7bfb801c3</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810181652_CCTC-TCC0603X7R104K500CT_C282519.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CCTC</field>
+        <field name="Manufacturer Number">TCC0603X7R104K500CT</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="CCTC"/>
+      <property name="Manufacturer Number" value="TCC0603X7R104K500CT"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="AnalogMux"/>
+      <property name="Sheetfile" value="AnalogMux.kicad_sch"/>
+      <sheetpath names="/AnalogMux/" tstamps="/00000000-0000-0000-0000-000060a081f6/"/>
+      <tstamp>5fca23a0-d26f-4932-bcf1-948b2442920c</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>NC7SB3157P6X</value>
+      <footprint>Package_TO_SOT_SMD:SOT-363_SC-70-6</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NC7SB3157-D.PDF</datasheet>
+      <fields>
+        <field name="Manufacturer">ON Semiconductor</field>
+        <field name="Manufacturer Number">NC7SB3157P6X</field>
+        <field name="Package">SC-70-6(SOT-363)</field>
+      </fields>
+      <libsource lib="Analog_Switch" part="NC7SB3157P6X" description="Single SPDT Low-Voltage Analog Switch or 2:1 Multiplexer/De-Multiplexer Bus Switch, 10Ohm Ron, SC-70-6"/>
+      <property name="Manufacturer" value="ON Semiconductor"/>
+      <property name="Manufacturer Number" value="NC7SB3157P6X"/>
+      <property name="Package" value="SC-70-6(SOT-363)"/>
+      <property name="Sheetname" value="AnalogMux"/>
+      <property name="Sheetfile" value="AnalogMux.kicad_sch"/>
+      <sheetpath names="/AnalogMux/" tstamps="/00000000-0000-0000-0000-000060a081f6/"/>
+      <tstamp>00000000-0000-0000-0000-000060a0ebc3</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>NC7SB3157P6X</value>
+      <footprint>Package_TO_SOT_SMD:SOT-363_SC-70-6</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NC7SB3157-D.PDF</datasheet>
+      <fields>
+        <field name="Manufacturer">ON Semiconductor</field>
+        <field name="Manufacturer Number">NC7SB3157P6X</field>
+        <field name="Package">SC-70-6(SOT-363)</field>
+      </fields>
+      <libsource lib="Analog_Switch" part="NC7SB3157P6X" description="Single SPDT Low-Voltage Analog Switch or 2:1 Multiplexer/De-Multiplexer Bus Switch, 10Ohm Ron, SC-70-6"/>
+      <property name="Manufacturer" value="ON Semiconductor"/>
+      <property name="Manufacturer Number" value="NC7SB3157P6X"/>
+      <property name="Package" value="SC-70-6(SOT-363)"/>
+      <property name="Sheetname" value="AnalogMux"/>
+      <property name="Sheetfile" value="AnalogMux.kicad_sch"/>
+      <sheetpath names="/AnalogMux/" tstamps="/00000000-0000-0000-0000-000060a081f6/"/>
+      <tstamp>00000000-0000-0000-0000-000060a25fd4</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>NC7SB3157P6X</value>
+      <footprint>Package_TO_SOT_SMD:SOT-363_SC-70-6</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NC7SB3157-D.PDF</datasheet>
+      <fields>
+        <field name="Manufacturer">ON Semiconductor</field>
+        <field name="Manufacturer Number">NC7SB3157P6X</field>
+        <field name="Package">SC-70-6(SOT-363)</field>
+      </fields>
+      <libsource lib="Analog_Switch" part="NC7SB3157P6X" description="Single SPDT Low-Voltage Analog Switch or 2:1 Multiplexer/De-Multiplexer Bus Switch, 10Ohm Ron, SC-70-6"/>
+      <property name="Manufacturer" value="ON Semiconductor"/>
+      <property name="Manufacturer Number" value="NC7SB3157P6X"/>
+      <property name="Package" value="SC-70-6(SOT-363)"/>
+      <property name="Sheetname" value="AnalogMux"/>
+      <property name="Sheetfile" value="AnalogMux.kicad_sch"/>
+      <sheetpath names="/AnalogMux/" tstamps="/00000000-0000-0000-0000-000060a081f6/"/>
+      <tstamp>00000000-0000-0000-0000-000060a0887d</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811021622_Samsung-Electro-Mechanics-CL10A105KO8NNNC_C1592.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	Samsung Electro-Mechanics</field>
+        <field name="Manufacturer Number">CL10A105KO8NNNC</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="&#x9;Samsung Electro-Mechanics"/>
+      <property name="Manufacturer Number" value="CL10A105KO8NNNC"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Controller"/>
+      <property name="Sheetfile" value="Controller.kicad_sch"/>
+      <sheetpath names="/Controller/" tstamps="/00000000-0000-0000-0000-0000609ff0a9/"/>
+      <tstamp>00000000-0000-0000-0000-0000609d2e99</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810181652_CCTC-TCC0603X7R104K500CT_C282519.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CCTC</field>
+        <field name="Manufacturer Number">TCC0603X7R104K500CT</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="CCTC"/>
+      <property name="Manufacturer Number" value="TCC0603X7R104K500CT"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Controller"/>
+      <property name="Sheetfile" value="Controller.kicad_sch"/>
+      <sheetpath names="/Controller/" tstamps="/00000000-0000-0000-0000-0000609ff0a9/"/>
+      <tstamp>00000000-0000-0000-0000-0000609d29bf</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810181652_CCTC-TCC0603X7R104K500CT_C282519.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CCTC</field>
+        <field name="Manufacturer Number">TCC0603X7R104K500CT</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Manufacturer" value="CCTC"/>
+      <property name="Manufacturer Number" value="TCC0603X7R104K500CT"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Controller"/>
+      <property name="Sheetfile" value="Controller.kicad_sch"/>
+      <sheetpath names="/Controller/" tstamps="/00000000-0000-0000-0000-0000609ff0a9/"/>
+      <tstamp>00000000-0000-0000-0000-0000609c4dd6</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>NCD0603R1</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0603R1_C84263.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	Foshan NationStar Optoelectronics</field>
+        <field name="Manufacturer Number">NCD0603R1</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Manufacturer" value="&#x9;Foshan NationStar Optoelectronics"/>
+      <property name="Manufacturer Number" value="NCD0603R1"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Controller"/>
+      <property name="Sheetfile" value="Controller.kicad_sch"/>
+      <sheetpath names="/Controller/" tstamps="/00000000-0000-0000-0000-0000609ff0a9/"/>
+      <tstamp>ad834005-13e2-4703-ac4a-9def1e40fdae</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>NCD0603R1</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2008201032_Foshan-NationStar-Optoelectronics-NCD0603R1_C84263.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">	Foshan NationStar Optoelectronics</field>
+        <field name="Manufacturer Number">NCD0603R1</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Manufacturer" value="&#x9;Foshan NationStar Optoelectronics"/>
+      <property name="Manufacturer Number" value="NCD0603R1"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Controller"/>
+      <property name="Sheetfile" value="Controller.kicad_sch"/>
+      <sheetpath names="/Controller/" tstamps="/00000000-0000-0000-0000-0000609ff0a9/"/>
+      <tstamp>ed07c7a6-a5e6-4f8d-a490-8e0612008ba4</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011704_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">FH(Guangdong Fenghua Advanced Tech)</field>
+        <field name="Manufacturer Number">RS-03K1001FT</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer" value="FH(Guangdong Fenghua Advanced Tech)"/>
+      <property name="Manufacturer Number" value="RS-03K1001FT"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Controller"/>
+      <property name="Sheetfile" value="Controller.kicad_sch"/>
+      <sheetpath names="/Controller/" tstamps="/00000000-0000-0000-0000-0000609ff0a9/"/>
+      <tstamp>f555c057-030f-4ca7-88d1-52a0ac218a76</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Controller"/>
+      <property name="Sheetfile" value="Controller.kicad_sch"/>
+      <sheetpath names="/Controller/" tstamps="/00000000-0000-0000-0000-0000609ff0a9/"/>
+      <tstamp>00000000-0000-0000-0000-0000609d0bb0</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1811011704_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">FH(Guangdong Fenghua Advanced Tech)</field>
+        <field name="Manufacturer Number">RS-03K1001FT</field>
+        <field name="Package">0603</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Manufacturer" value="FH(Guangdong Fenghua Advanced Tech)"/>
+      <property name="Manufacturer Number" value="RS-03K1001FT"/>
+      <property name="Package" value="0603"/>
+      <property name="Sheetname" value="Controller"/>
+      <property name="Sheetfile" value="Controller.kicad_sch"/>
+      <sheetpath names="/Controller/" tstamps="/00000000-0000-0000-0000-0000609ff0a9/"/>
+      <tstamp>15a3d32d-ef3d-422c-b125-28d415f78d15</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H4.3mm</footprint>
+      <datasheet>~https://datasheet.lcsc.com/lcsc/1911212104_XUNPU-TS-1002-04326_C455089.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">XUNPU</field>
+        <field name="Manufacturer Number">TS-1002-04326</field>
+        <field name="Package">Through Hole,6x6x4.3mm</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Manufacturer" value="XUNPU"/>
+      <property name="Manufacturer Number" value="TS-1002-04326"/>
+      <property name="Package" value="Through Hole,6x6x4.3mm"/>
+      <property name="Sheetname" value="Controller"/>
+      <property name="Sheetfile" value="Controller.kicad_sch"/>
+      <sheetpath names="/Controller/" tstamps="/00000000-0000-0000-0000-0000609ff0a9/"/>
+      <tstamp>00000000-0000-0000-0000-0000609c3f5b</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>ESP32-WROOM-32</value>
+      <footprint>RF_Module:ESP32-WROOM-32</footprint>
+      <datasheet>https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Espressif Systems</field>
+        <field name="Manufacturer Number">	ESP32-WROOM-32</field>
+        <field name="Package">WIFI Module</field>
+      </fields>
+      <libsource lib="RF_Module" part="ESP32-WROOM-32" description="RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD"/>
+      <property name="Manufacturer" value="Espressif Systems"/>
+      <property name="Manufacturer Number" value="&#x9;ESP32-WROOM-32"/>
+      <property name="Package" value="WIFI Module"/>
+      <property name="Sheetname" value="Controller"/>
+      <property name="Sheetfile" value="Controller.kicad_sch"/>
+      <sheetpath names="/Controller/" tstamps="/00000000-0000-0000-0000-0000609ff0a9/"/>
+      <tstamp>57631c2f-6c1f-4104-9af2-76db93e651df</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>NCE3018AS</value>
+      <footprint>Package_SO:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://datasheetspdf.com/pdf-file/1273153/NCEPowerSemiconductor/NCE3018AS/1</datasheet>
+      <fields>
+        <field name="Manufacturer">NCE Power</field>
+        <field name="Manufacturer Number">NCE3018AS</field>
+        <field name="Package">SOP-8_150mil</field>
+      </fields>
+      <libsource lib="Transistors" part="NCE3018AS" description="VDS =30V,ID =18A RDS(ON) &lt; 7mΩ @ VGS=10V      RDS(ON) &lt; 10mΩ @ VGS=4.5V "/>
+      <property name="Manufacturer Number" value="NCE3018AS"/>
+      <property name="Package" value="SOP-8_150mil"/>
+      <property name="Manufacturer" value="NCE Power"/>
+      <property name="Sheetname" value="WaterPumpControl"/>
+      <property name="Sheetfile" value="WaterPumpControl.kicad_sch"/>
+      <sheetpath names="/WaterPumpControl/" tstamps="/00000000-0000-0000-0000-000060993e2a/"/>
+      <tstamp>976966d8-181a-4943-ab8b-314427daa89f</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>NCE3018AS</value>
+      <footprint>Package_SO:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://datasheetspdf.com/pdf-file/1273153/NCEPowerSemiconductor/NCE3018AS/1</datasheet>
+      <fields>
+        <field name="Manufacturer">NCE Power</field>
+        <field name="Manufacturer Number">NCE3018AS</field>
+        <field name="Package">SOP-8_150mil</field>
+      </fields>
+      <libsource lib="Transistors" part="NCE3018AS" description="VDS =30V,ID =18A RDS(ON) &lt; 7mΩ @ VGS=10V      RDS(ON) &lt; 10mΩ @ VGS=4.5V "/>
+      <property name="Manufacturer Number" value="NCE3018AS"/>
+      <property name="Package" value="SOP-8_150mil"/>
+      <property name="Manufacturer" value="NCE Power"/>
+      <property name="Sheetname" value="WaterPumpControl"/>
+      <property name="Sheetfile" value="WaterPumpControl.kicad_sch"/>
+      <sheetpath names="/WaterPumpControl/" tstamps="/00000000-0000-0000-0000-000060993e2a/"/>
+      <tstamp>3306cf67-0092-4ee6-9926-8219cc645a83</tstamp>
+    </comp>
+    <comp ref="U13">
+      <value>NCE3018AS</value>
+      <footprint>Package_SO:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://datasheetspdf.com/pdf-file/1273153/NCEPowerSemiconductor/NCE3018AS/1</datasheet>
+      <fields>
+        <field name="Manufacturer">NCE Power</field>
+        <field name="Manufacturer Number">NCE3018AS</field>
+        <field name="Package">SOP-8_150mil</field>
+      </fields>
+      <libsource lib="Transistors" part="NCE3018AS" description="VDS =30V,ID =18A RDS(ON) &lt; 7mΩ @ VGS=10V      RDS(ON) &lt; 10mΩ @ VGS=4.5V "/>
+      <property name="Manufacturer Number" value="NCE3018AS"/>
+      <property name="Package" value="SOP-8_150mil"/>
+      <property name="Manufacturer" value="NCE Power"/>
+      <property name="Sheetname" value="LedControl"/>
+      <property name="Sheetfile" value="LedControl.kicad_sch"/>
+      <sheetpath names="/LedControl/" tstamps="/00000000-0000-0000-0000-0000609660e5/"/>
+      <tstamp>70bdfbcb-f5cf-4ef7-b952-f81cf766a449</tstamp>
+    </comp>
+    <comp ref="U14">
+      <value>NCE3018AS</value>
+      <footprint>Package_SO:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://datasheetspdf.com/pdf-file/1273153/NCEPowerSemiconductor/NCE3018AS/1</datasheet>
+      <fields>
+        <field name="Manufacturer">NCE Power</field>
+        <field name="Manufacturer Number">NCE3018AS</field>
+        <field name="Package">SOP-8_150mil</field>
+      </fields>
+      <libsource lib="Transistors" part="NCE3018AS" description="VDS =30V,ID =18A RDS(ON) &lt; 7mΩ @ VGS=10V      RDS(ON) &lt; 10mΩ @ VGS=4.5V "/>
+      <property name="Manufacturer Number" value="NCE3018AS"/>
+      <property name="Package" value="SOP-8_150mil"/>
+      <property name="Manufacturer" value="NCE Power"/>
+      <property name="Sheetname" value="LedControl"/>
+      <property name="Sheetfile" value="LedControl.kicad_sch"/>
+      <sheetpath names="/LedControl/" tstamps="/00000000-0000-0000-0000-0000609660e5/"/>
+      <tstamp>c622d4df-bfe8-40f1-be70-8112d3ce3045</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Analog_Switch" part="NC7SB3157P6X">
+      <description>Single SPDT Low-Voltage Analog Switch or 2:1 Multiplexer/De-Multiplexer Bus Switch, 10Ohm Ron, SC-70-6</description>
+      <docs>https://www.onsemi.com/pub/Collateral/NC7SB3157-D.PDF</docs>
+      <footprints>
+        <fp>*SC?70*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">NC7SB3157P6X</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-363_SC-70-6</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/NC7SB3157-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+        <pin num="5" name="V+" type="power_in"/>
+        <pin num="6" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_A">
+      <description>USB Type A connector</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_A</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_in"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_C_Plug_USB2.0">
+      <description>USB 2.0-only Type-C Plug connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Plug*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">USB_C_Plug_USB2.0</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="VCONN" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse_Small">
+      <description>Resettable fuse, polymeric positive temperature coefficient, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_USB" part="CH340C">
+      <description>USB serial converter, UART, SOIC-16</description>
+      <docs>https://datasheet.lcsc.com/szlcsc/Jiangsu-Qin-Heng-CH340C_C84681.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x9.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CH340C</field>
+        <field name="Footprint">Package_SO:SOIC-16_3.9x9.9mm_P1.27mm</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/szlcsc/Jiangsu-Qin-Heng-CH340C_C84681.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="TXD" type="output"/>
+        <pin num="3" name="RXD" type="input"/>
+        <pin num="4" name="V3" type="passive"/>
+        <pin num="5" name="UD+" type="bidirectional"/>
+        <pin num="6" name="UD-" type="bidirectional"/>
+        <pin num="7" name="NC" type="no_connect"/>
+        <pin num="8" name="NC" type="no_connect"/>
+        <pin num="9" name="~CTS" type="input"/>
+        <pin num="10" name="~DSR" type="input"/>
+        <pin num="11" name="~RI" type="input"/>
+        <pin num="12" name="~DCD" type="input"/>
+        <pin num="13" name="~DTR" type="output"/>
+        <pin num="14" name="~RTS" type="output"/>
+        <pin num="15" name="R232" type="input"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="RF_Module" part="ESP32-WROOM-32">
+      <description>RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD</description>
+      <docs>https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf</docs>
+      <footprints>
+        <fp>ESP32?WROOM?32*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-WROOM-32</field>
+        <field name="Footprint">RF_Module:ESP32-WROOM-32</field>
+        <field name="Datasheet">https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="SENSOR_VP" type="input"/>
+        <pin num="5" name="SENSOR_VN" type="input"/>
+        <pin num="6" name="IO34" type="input"/>
+        <pin num="7" name="IO35" type="input"/>
+        <pin num="8" name="IO32" type="bidirectional"/>
+        <pin num="9" name="IO33" type="bidirectional"/>
+        <pin num="10" name="IO25" type="bidirectional"/>
+        <pin num="11" name="IO26" type="bidirectional"/>
+        <pin num="12" name="IO27" type="bidirectional"/>
+        <pin num="13" name="IO14" type="bidirectional"/>
+        <pin num="14" name="IO12" type="bidirectional"/>
+        <pin num="15" name="GND" type="passive"/>
+        <pin num="16" name="IO13" type="bidirectional"/>
+        <pin num="17" name="SHD/SD2" type="bidirectional"/>
+        <pin num="18" name="SWP/SD3" type="bidirectional"/>
+        <pin num="19" name="SCS/CMD" type="bidirectional"/>
+        <pin num="20" name="SCK/CLK" type="bidirectional"/>
+        <pin num="21" name="SDO/SD0" type="bidirectional"/>
+        <pin num="22" name="SDI/SD1" type="bidirectional"/>
+        <pin num="23" name="IO15" type="bidirectional"/>
+        <pin num="24" name="IO2" type="bidirectional"/>
+        <pin num="25" name="IO0" type="bidirectional"/>
+        <pin num="26" name="IO4" type="bidirectional"/>
+        <pin num="27" name="IO16" type="bidirectional"/>
+        <pin num="28" name="IO17" type="bidirectional"/>
+        <pin num="29" name="IO5" type="bidirectional"/>
+        <pin num="30" name="IO18" type="bidirectional"/>
+        <pin num="31" name="IO19" type="bidirectional"/>
+        <pin num="32" name="NC" type="no_connect"/>
+        <pin num="33" name="IO21" type="bidirectional"/>
+        <pin num="34" name="RXD0/IO3" type="bidirectional"/>
+        <pin num="35" name="TXD0/IO1" type="bidirectional"/>
+        <pin num="36" name="IO22" type="bidirectional"/>
+        <pin num="37" name="IO23" type="bidirectional"/>
+        <pin num="38" name="GND" type="passive"/>
+        <pin num="39" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Optical" part="TEPT4400">
+      <description>Ambient Light Sensor, NPN Epitaxial Planar Phototransistor, T-1</description>
+      <docs>https://www.vishay.com/docs/81341/tept4400.pdf</docs>
+      <footprints>
+        <fp>LED*3.0mm*Clear*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">TEPT4400</field>
+        <field name="Footprint">LED_THT:LED_D3.0mm_Clear</field>
+        <field name="Datasheet">https://www.vishay.com/docs/81341/tept4400.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="passive"/>
+        <pin num="2" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="BC817">
+      <description>0.8A Ic, 45V Vce, NPN Transistor, SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/BC818-D.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC817</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/BC818-D.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistors" part="NCE3018AS">
+      <description>VDS =30V,ID =18A RDS(ON) &lt; 7mΩ @ VGS=10V      RDS(ON) &lt; 10mΩ @ VGS=4.5V </description>
+      <docs>https://datasheetspdf.com/pdf-file/1273153/NCEPowerSemiconductor/NCE3018AS/1</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">NCE3018AS</field>
+        <field name="Footprint">Package_SO:SO-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">https://datasheetspdf.com/pdf-file/1273153/NCEPowerSemiconductor/NCE3018AS/1</field>
+        <field name="Manufacturer Number">NCE3018AS</field>
+        <field name="Package">SOP-8</field>
+        <field name="Manufacturer">NCE Power</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistors" part="NCE3018AS_1">
+      <description>VDS =30V,ID =18A RDS(ON) &lt; 7mΩ @ VGS=10V      RDS(ON) &lt; 10mΩ @ VGS=4.5V </description>
+      <docs>https://datasheetspdf.com/pdf-file/1273153/NCEPowerSemiconductor/NCE3018AS/1</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">NCE3018AS</field>
+        <field name="Footprint">Package_SO:SO-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">https://datasheetspdf.com/pdf-file/1273153/NCEPowerSemiconductor/NCE3018AS/1</field>
+        <field name="Manufacturer Number">NCE3018AS</field>
+        <field name="Package">SOP-8</field>
+        <field name="Manufacturer">NCE Power</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistors" part="NCE3018AS_3">
+      <description>VDS =30V,ID =18A RDS(ON) &lt; 7mΩ @ VGS=10V      RDS(ON) &lt; 10mΩ @ VGS=4.5V </description>
+      <docs>https://datasheetspdf.com/pdf-file/1273153/NCEPowerSemiconductor/NCE3018AS/1</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">NCE3018AS</field>
+        <field name="Footprint">Package_SO:SO-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">https://datasheetspdf.com/pdf-file/1273153/NCEPowerSemiconductor/NCE3018AS/1</field>
+        <field name="Manufacturer Number">NCE3018AS</field>
+        <field name="Package">SOP-8</field>
+        <field name="Manufacturer">NCE Power</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="User_LDO" part="BCT2028">
+      <docs>https://datasheet.lcsc.com/lcsc/1809211434_BROADCHIP-BCT2028EUK33-TR_C266766.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">BCT2028</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1809211434_BROADCHIP-BCT2028EUK33-TR_C266766.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="BP/FB" type="input"/>
+        <pin num="5" name="OUT" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="User_Sensors" part="AHT20">
+      <docs>https://datasheet.lcsc.com/lcsc/2004070932_Aosong-Guangzhou-Elec-AHT20_C503357.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AHT20</field>
+        <field name="Footprint">Package_DFN_QFN:DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2004070932_Aosong-Guangzhou-Elec-AHT20_C503357.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="input"/>
+        <pin num="2" name="VDD" type="input"/>
+        <pin num="3" name="SCL" type="input"/>
+        <pin num="4" name="SDA" type="input"/>
+        <pin num="5" name="GND" type="input"/>
+        <pin num="6" name="NC" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Analog_Switch">
+      <uri>C:\Program Files\KiCad\5.99\share\kicad\library/Analog_Switch.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\5.99\share\kicad\library/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\5.99\share\kicad\library/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\5.99\share\kicad\library/Device.kicad_sym</uri>
+    </library>
+    <library logical="Interface_USB">
+      <uri>C:\Program Files\KiCad\5.99\share\kicad\library/Interface_USB.kicad_sym</uri>
+    </library>
+    <library logical="RF_Module">
+      <uri>C:\Program Files\KiCad\5.99\share\kicad\library/RF_Module.kicad_sym</uri>
+    </library>
+    <library logical="Sensor_Optical">
+      <uri>C:\Program Files\KiCad\5.99\share\kicad\library/Sensor_Optical.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\5.99\share\kicad\library/Switch.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>C:\Program Files\KiCad\5.99\share\kicad\library/Transistor_BJT.kicad_sym</uri>
+    </library>
+    <library logical="Transistors">
+      <uri>C:/Users/Kevin Filipe/Desktop/git/kicad_libraries/symbols/Transistors.kicad_sym</uri>
+    </library>
+    <library logical="User_LDO">
+      <uri>C:/Users/Kevin Filipe/Desktop/git/kicad_libraries/symbols/User_LDO.kicad_sym</uri>
+    </library>
+    <library logical="User_Sensors">
+      <uri>C:/Users/Kevin Filipe/Desktop/git/kicad_libraries/symbols/User_Sensors.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q9" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U11" pin="5" pinfunction="OUT" pintype="input"/>
+      <node ref="U4" pin="2" pinfunction="VDD" pintype="input"/>
+      <node ref="U5" pin="5" pinfunction="V+" pintype="power_in"/>
+      <node ref="U6" pin="5" pinfunction="V+" pintype="power_in"/>
+      <node ref="U7" pin="5" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J6" pin="1" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="U11" pin="1" pinfunction="IN" pintype="input"/>
+      <node ref="U11" pin="3" pinfunction="EN" pintype="input"/>
+      <node ref="U3" pin="16" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="3" name="/ALERT0_IS_DRY">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="36" pinfunction="IO22" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/ALERT1_IS_DRY">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="33" pinfunction="IO21" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/ALERT2_IS_DARK">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="31" pinfunction="IO19" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/ALERT3_CUSTOM">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="IO18" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/AnalogMux/AIN_0">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U5" pin="3" pintype="passive"/>
+    </net>
+    <net code="8" name="/AnalogMux/AIN_1">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U5" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="/AnalogMux/AIN_2">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U6" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="/AnalogMux/AIN_3">
+      <node ref="Q9" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U6" pin="3" pintype="passive"/>
+    </net>
+    <net code="11" name="/AnalogMux/AOUT">
+      <node ref="U1" pin="4" pinfunction="SENSOR_VP" pintype="input"/>
+      <node ref="U7" pin="4" pintype="passive"/>
+    </net>
+    <net code="12" name="/Controller/CTRL_LEDSTRIP_USB_A">
+      <node ref="U1" pin="12" pinfunction="IO27" pintype="bidirectional"/>
+      <node ref="U13" pin="4" pintype="input"/>
+    </net>
+    <net code="13" name="/Controller/CTRL_LEDSTRIP_USB_B">
+      <node ref="U1" pin="11" pinfunction="IO26" pintype="bidirectional"/>
+      <node ref="U14" pin="4" pintype="input"/>
+    </net>
+    <net code="14" name="/Controller/CTRL_WATERPUMP_A">
+      <node ref="U1" pin="10" pinfunction="IO25" pintype="bidirectional"/>
+      <node ref="U2" pin="4" pintype="input"/>
+    </net>
+    <net code="15" name="/Controller/CTRL_WATERPUMP_B">
+      <node ref="U1" pin="13" pinfunction="IO14" pintype="bidirectional"/>
+      <node ref="U9" pin="4" pintype="input"/>
+    </net>
+    <net code="16" name="/Controller/EN">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="17" name="/Controller/Heartbeat">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="IO16" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/Controller/IO0">
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="IO0" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/Controller/RX">
+      <node ref="U1" pin="34" pinfunction="RXD0/IO3" pintype="bidirectional"/>
+      <node ref="U3" pin="2" pinfunction="TXD" pintype="output"/>
+    </net>
+    <net code="20" name="/Controller/SCL">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="IO32" pintype="bidirectional"/>
+      <node ref="U4" pin="3" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="21" name="/Controller/SDA">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="IO33" pintype="bidirectional"/>
+      <node ref="U4" pin="4" pinfunction="SDA" pintype="input"/>
+    </net>
+    <net code="22" name="/Controller/TX">
+      <node ref="U1" pin="35" pinfunction="TXD0/IO1" pintype="bidirectional"/>
+      <node ref="U3" pin="3" pinfunction="RXD" pintype="input"/>
+    </net>
+    <net code="23" name="/FlasherCircuit/D+">
+      <node ref="P1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U3" pin="5" pinfunction="UD+" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/FlasherCircuit/D-">
+      <node ref="P1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U3" pin="6" pinfunction="UD-" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/LedControl/USB_LED_A_N">
+      <node ref="J6" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U13" pin="5" pintype="passive"/>
+      <node ref="U13" pin="6" pintype="passive"/>
+      <node ref="U13" pin="7" pintype="passive"/>
+      <node ref="U13" pin="8" pintype="passive"/>
+    </net>
+    <net code="26" name="/LedControl/USB_LED_B_N">
+      <node ref="J3" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U14" pin="5" pintype="passive"/>
+      <node ref="U14" pin="6" pintype="passive"/>
+      <node ref="U14" pin="7" pintype="passive"/>
+      <node ref="U14" pin="8" pintype="passive"/>
+    </net>
+    <net code="27" name="/SEL0">
+      <node ref="U1" pin="24" pinfunction="IO2" pintype="bidirectional"/>
+      <node ref="U5" pin="6" pintype="input"/>
+      <node ref="U6" pin="6" pintype="input"/>
+    </net>
+    <net code="28" name="/SEL1">
+      <node ref="U1" pin="23" pinfunction="IO15" pintype="bidirectional"/>
+      <node ref="U7" pin="6" pintype="input"/>
+    </net>
+    <net code="29" name="/WaterPumpControl/WATERPUMP_A-">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="5" pintype="passive"/>
+      <node ref="U2" pin="6" pintype="passive"/>
+      <node ref="U2" pin="7" pintype="passive"/>
+      <node ref="U2" pin="8" pintype="passive"/>
+    </net>
+    <net code="30" name="/WaterPumpControl/WATERPUMP_B-">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U9" pin="5" pintype="passive"/>
+      <node ref="U9" pin="6" pintype="passive"/>
+      <node ref="U9" pin="7" pintype="passive"/>
+      <node ref="U9" pin="8" pintype="passive"/>
+    </net>
+    <net code="31" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="Shield" pintype="passive"/>
+      <node ref="J6" pin="5" pinfunction="Shield" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="P1" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="P1" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="P1" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="P1" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="P1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="15" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="38" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="39" pinfunction="GND" pintype="passive"/>
+      <node ref="U11" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="U13" pin="1" pintype="passive"/>
+      <node ref="U13" pin="2" pintype="passive"/>
+      <node ref="U13" pin="3" pintype="passive"/>
+      <node ref="U14" pin="1" pintype="passive"/>
+      <node ref="U14" pin="2" pintype="passive"/>
+      <node ref="U14" pin="3" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="5" pinfunction="GND" pintype="input"/>
+      <node ref="U5" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="1" pintype="passive"/>
+      <node ref="U9" pin="2" pintype="passive"/>
+      <node ref="U9" pin="3" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="V3" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(C13-Pad1)">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="U11" pin="4" pinfunction="BP/FB" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D8-Pad1)">
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(F1-Pad1)">
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="P1" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="P1" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="P1" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="P1" pin="B9" pinfunction="VBUS" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(P1-PadA5)">
+      <node ref="P1" pin="A5" pinfunction="CC" pintype="bidirectional"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(P1-PadB5)">
+      <node ref="P1" pin="B5" pinfunction="VCONN" pintype="bidirectional"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="~RTS" pintype="output"/>
+    </net>
+    <net code="45" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(Q2-Pad2)">
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="~DTR" pintype="output"/>
+    </net>
+    <net code="47" name="Net-(R10-Pad1)">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="SENSOR_VN" pintype="input"/>
+    </net>
+    <net code="48" name="Net-(U5-Pad4)">
+      <node ref="U5" pin="4" pintype="passive"/>
+      <node ref="U7" pin="3" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(U6-Pad4)">
+      <node ref="U6" pin="4" pintype="passive"/>
+      <node ref="U7" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="unconnected-(J3-Pad2)">
+      <node ref="J3" pin="2" pinfunction="D-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(J3-Pad3)">
+      <node ref="J3" pin="3" pinfunction="D+" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(J6-Pad2)">
+      <node ref="J6" pin="2" pinfunction="D-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(J6-Pad3)">
+      <node ref="J6" pin="3" pinfunction="D+" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U1-Pad6)">
+      <node ref="U1" pin="6" pinfunction="IO34" pintype="input+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(U1-Pad7)">
+      <node ref="U1" pin="7" pinfunction="IO35" pintype="input+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(U1-Pad14)">
+      <node ref="U1" pin="14" pinfunction="IO12" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(U1-Pad16)">
+      <node ref="U1" pin="16" pinfunction="IO13" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(U1-Pad17)">
+      <node ref="U1" pin="17" pinfunction="SHD/SD2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(U1-Pad18)">
+      <node ref="U1" pin="18" pinfunction="SWP/SD3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(U1-Pad19)">
+      <node ref="U1" pin="19" pinfunction="SCS/CMD" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(U1-Pad20)">
+      <node ref="U1" pin="20" pinfunction="SCK/CLK" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(U1-Pad21)">
+      <node ref="U1" pin="21" pinfunction="SDO/SD0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(U1-Pad22)">
+      <node ref="U1" pin="22" pinfunction="SDI/SD1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(U1-Pad26)">
+      <node ref="U1" pin="26" pinfunction="IO4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(U1-Pad28)">
+      <node ref="U1" pin="28" pinfunction="IO17" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(U1-Pad29)">
+      <node ref="U1" pin="29" pinfunction="IO5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(U1-Pad32)">
+      <node ref="U1" pin="32" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(U1-Pad37)">
+      <node ref="U1" pin="37" pinfunction="IO23" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(U3-Pad7)">
+      <node ref="U3" pin="7" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(U3-Pad8)">
+      <node ref="U3" pin="8" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(U3-Pad9)">
+      <node ref="U3" pin="9" pinfunction="~CTS" pintype="input+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(U3-Pad10)">
+      <node ref="U3" pin="10" pinfunction="~DSR" pintype="input+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(U3-Pad11)">
+      <node ref="U3" pin="11" pinfunction="~RI" pintype="input+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(U3-Pad12)">
+      <node ref="U3" pin="12" pinfunction="~DCD" pintype="input+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(U3-Pad15)">
+      <node ref="U3" pin="15" pinfunction="R232" pintype="input+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(U4-Pad1)">
+      <node ref="U4" pin="1" pinfunction="NC" pintype="input+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(U4-Pad6)">
+      <node ref="U4" pin="6" pinfunction="NC" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>

@@ -450,6 +450,7 @@
     )
   )
 
+
   (junction (at 166.37 88.9) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 168.91 88.9) (diameter 0.9144) (color 0 0 0 0))
   (junction (at 168.91 105.41) (diameter 0.9144) (color 0 0 0 0))
@@ -629,7 +630,7 @@
     (property "Manufacturer Number" "NCE3018AS" (id 4) (at 179.07 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Package" "SOP-8" (id 5) (at 170.18 97.79 0))
+    (property "Package" "SOP-8_150mil" (id 5) (at 170.18 97.79 0))
     (property "Manufacturer" "NCE Power" (id 6) (at 179.07 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -661,7 +662,7 @@
     (property "Manufacturer Number" "NCE3018AS" (id 4) (at 215.9 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Package" "SOP-8" (id 5) (at 215.9 97.79 0))
+    (property "Package" "SOP-8_150mil" (id 5) (at 215.9 97.79 0))
     (property "Manufacturer" "NCE Power" (id 6) (at 215.9 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
